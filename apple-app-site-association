@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "PAS8AXFW29.com.getfini.app",
-        "paths": [ "NOT /e/*", "*", "/", “/archives/201?/* ]
+        "paths": [ "*", "/"]
       }
     ]
   }
